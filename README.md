@@ -10,4 +10,5 @@ the schematic looks like this, it consists of several HC595 8-bit shift register
 The PCB uses only 2 layers to be as cost effective as possible and stays within 100mm x 100mm to capitalize on JLCPCB's lowest cost threshold. It was designed in a way where traces of similar functionality are grouped together, but not close enough to be affected by other traces by Faraday's Law.
 
 ## Physical Build
-Still in the design review process, if you noticed, there are quite a few SMD components, which may be a bit complicated to solder by hand, but I have a lot of experience soldering SMD, especially SOIC, so I should have little trouble.
+YAYYY ITS DONE!!! :D
+https://github.com/user-attachments/assets/ebe392f2-ca30-4a46-b4f1-2a95856c1f90
